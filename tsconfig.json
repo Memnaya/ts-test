@@ -11,6 +11,8 @@
       "@types/*": ["types/*"],
       "@utils/*": ["utils/*"]
     },
+    "isolatedModules": true,
+    "esModuleInterop": true,
 
     /* Bundler mode */
     "moduleResolution": "bundler",
